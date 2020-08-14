@@ -5,7 +5,7 @@
 </a>
 
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittat&layout=compact" />
 </a>
 
 
