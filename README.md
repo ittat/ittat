@@ -44,8 +44,6 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
-
 💬 Languages: 
 No Activity tracked this Week
 
