@@ -1,22 +1,25 @@
 ### Ittat's Github 👋
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true">
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true&show_icons=true&count_private=true" />
+</a>
+
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittat" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 202 Contributions in year 2020
- > 
-> 📦 Used 315.3 kB in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 2 Owned Private Repositories 
 
 **I'm an early 🐤** 
 
