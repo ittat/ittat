@@ -1,8 +1,6 @@
 ### Ittat's Github 👋
 
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true">
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true">
 
 
 <!--START_SECTION:waka-->
