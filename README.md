@@ -1,11 +1,11 @@
 ### Ittat's Github 👋
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true&show_icons=true&count_private=true&theme=graywhite"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ittat&hide_border=true&show_icons=true&count_private=true&theme=graywhite"  width="60%"/>
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittat&hide_border=true&theme=graywhite" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittat&hide_border=true&theme=graywhite"  width="35%" />
 </a>
 
 
