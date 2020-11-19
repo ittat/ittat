@@ -1,12 +1,8 @@
-# This is a basic workflow to help you get started with Actions
+name: update
 
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  #push:
-  #  branches: [ master ]
+  push:
+   branches: [ master ]
     
   schedule:
     # Runs at 12am IST
@@ -28,3 +24,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO : "False"
+          SHOW_LANGUAGE : "False"
