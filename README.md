@@ -8,19 +8,21 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609209%20lines%20of%20code-blue)
 
-    technologies: {
-        frontEnd: {
-            js: ["Vue"],
-            css: ["bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            python: ["flask"]
-        },
-        devOps: ["Github Actions", "Docker🐳"],
-        databases: ["MySql"],
-        misc: ["selenium"]
+```
+technologies: {
+    frontEnd: {
+        js: ["Vue"],
+        css: ["bootstrap"]
     },
+    backEnd: {
+        js: ["node", "express"],
+        python: ["flask"]
+    },
+    devOps: ["Github Actions", "Docker🐳"],
+    databases: ["MySql"],
+    misc: ["selenium"]
+}
+```
 
 **I'm an Early 🐤** 
 
